@@ -3,5 +3,5 @@ Jupyter notebook implementing the Metropolis-Hastings algorithm. Project for the
 
 *The notebook is written in French.*
 
-###Authors
+### Authors
 Bernardo Porto Veronese and Wesley Rodrigues Machado.
